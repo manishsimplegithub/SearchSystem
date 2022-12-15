@@ -2,7 +2,7 @@ body {
     margin: 0;
     -webkit-font-smoothing: antialiased;
     -moz-ox-font-smoothing: grayscale;
-    font-family: "MuseoModerno", cursive;
+    font-family: "MuseoModerno", cursive, 'Courier New', Courier, monospace;
     background-color: cadetblue;
 }
 
